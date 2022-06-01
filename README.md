@@ -6,7 +6,7 @@ Este é um projeto desenvolvido no bootcamp react do professor Nelio Alves
 
 ##### Design da aplicação
 
-![Design da aplicação](https://github.com/miltcn/bds-desafio-mod2-react/blob/main/github_api.png?raw=true)
+![Design da aplicação](https://github.com/miltcn/teste_api_git/bds-desafio-mod2-react/blob/main/github_api.png?raw=true)
 
 #### 🚀 Instalando o projeto
 
